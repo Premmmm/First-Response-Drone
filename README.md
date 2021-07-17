@@ -35,7 +35,7 @@ Go to FRD Adminsistrator Code FLASK folder to access the codes
 **IMPORTANT**: \
 You need to connect your firebase database for your app to work, get your google-services.json file and paste it inside android/app/. Scroll down to see how I have structured my database.
 
-## App UI
+## Mobile App UI
 
 <div>
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/Picture1.jpg" height="535" width="270" />
@@ -47,6 +47,12 @@ You need to connect your firebase database for your app to work, get your google
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/Picture7.jpg"  height="535" width="270">
 </div><br><br>
 
+## Web App UI
+<div>
+  <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/WebApp1.jpg" />
+  <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/WebApp2.jpg" />
+  <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/WebApp3.jpg" />
+</div><br><br>
 
 ## Database
 <div>
