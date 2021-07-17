@@ -1,0 +1,24 @@
+<div class="row">
+    <div class="col">
+      {% for i in cord%}
+          <p>{{cord[i]}}</p>
+      {%endfor%}
+      <a href="/" class="btn btn-primary" style="justify-content: center;">back</a>
+      <!-- <a href="/dgps?idgps={{cord['uid']}}" class="btn btn-primary" style="justify-content: center;">launch</a> -->
+      <a onclick="launch()" class="btn btn-primary" style="justify-content: center;">launch</a>
+      <a onclick="RTL()" class="btn btn-primary" style="justify-content: center;">rtl</a>
+    </div>
+    <div class="col-7">
+      <img src="{{ url_for('video_feed') }}" width="700px" height="360px"  style="box-shadow: -5px 2px 20px 0px #a9a6a6;">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      {% for i in cord%}
+          <p>{{cord[i]}}</p>
+      {%endfor%}
+    </div>
+    <div class="col-7">
+      <div  id="issMap"></div>
+    </div>
+  </div>
