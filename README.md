@@ -23,9 +23,14 @@ This mobile application is developed with flutter and dart this acts as the clie
 ### Database
 1) Firebase Real Time Database
 
+## Authentication
+10 FIrebase authentication  (OAuth2)
+
 ### Applications Used
 1) VS Code
 
+### Administrator Side Web App Flask
+Go to FRD Adminsistrator Code FLASK folder to access the codes
 
 **IMPORTANT**: \
 You need to connect your firebase database for your app to work, get your google-services.json file and paste it inside android/app/. Scroll down to see how I have structured my database.
