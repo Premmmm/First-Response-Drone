@@ -45,14 +45,16 @@ You need to connect your firebase database for your app to work, get your google
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/Picture5.jpg"  height="535" width="270">
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/Picture6.jpg"  height="535" width="270">
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/Picture7.jpg"  height="535" width="270">
-</div><br><br>
+</div>
+<br/><br/>
 
 ## Web App UI
 <div>
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/WebApp1.jpg" />
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/WebApp2.jpg" />
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/WebApp3.jpg" />
-</div><br><br>
+</div>
+<br/><br/>
 
 ## Database
 <div>
@@ -60,7 +62,8 @@ You need to connect your firebase database for your app to work, get your google
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/database2.png" height="500" width="420" />
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/database3.png" height="500" width="350" />
   <img src="https://github.com/Premmmm/First-Response-Drone/blob/master/assets/GithubPictures/database4.png" height="500" width="450" />
-</div><br><br>
+</div>
+<br/><br/>
 
 
 
